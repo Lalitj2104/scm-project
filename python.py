@@ -334,7 +334,7 @@ while True:
     
    
 else:
-    print("please try again")
+    print("pls try again")
 print("Total question attempted:",question)
 print("number of correct answer:",cq)
 print("number of wrong answer",wq)
