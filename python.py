@@ -3,7 +3,7 @@ import pyfiglet
 word=pyfiglet.figlet_format("welcome To The Quiz")
 print(word)
 print()
-
+print()
 name=input("Enter your name:")
 email=input("Enter your mail id: ")
 score=0
